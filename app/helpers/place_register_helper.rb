@@ -1,0 +1,2 @@
+module PlaceRegisterHelper
+end

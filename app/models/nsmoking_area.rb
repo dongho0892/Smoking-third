@@ -1,0 +1,2 @@
+class NsmokingArea < ApplicationRecord
+end
